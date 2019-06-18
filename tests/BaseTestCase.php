@@ -7,7 +7,7 @@ use Conduit\Models\Comment;
 use Conduit\Models\User;
 use Faker\Factory;
 use PHPUnit\Framework\TestCase;
-use Slim\App;
+use LaravelBridge\Slim\App;
 use Slim\Http\Request;
 use Slim\Http\Response;
 use Slim\Http\Environment;
